@@ -1,0 +1,8 @@
+com\criscano\project\config\JpaAuditingConfig.class
+com\criscano\project\application\service\impl\UsuarioServiceImpl.class
+com\criscano\project\application\dto\UsuarioDto.class
+com\criscano\project\infrastructure\web\controller\UsuarioController.class
+com\criscano\project\domain\Usuario.class
+com\criscano\project\domain\AuditableEntity.class
+com\criscano\project\infrastructure\persistence\UsuarioRepository.class
+com\criscano\project\application\service\UsuarioService.class
